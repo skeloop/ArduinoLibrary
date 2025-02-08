@@ -14,5 +14,6 @@ Intigrierte Methoden und Funktionen decken komplizierte Logikabfragen.
 
 ## Fazit
 Als ich damit begonnen habe mit ESP's, elektronische Komponenten für mein Zuhause, wie 'Lichtsteuerung', 'autonome Schalter' und 'Gerätesteuerung' zu basteln, kam mir die Idee für ein allgemeines und vereinfachtes Framework für schnelleres Prototyping und Entwickeln.
-Sie soll die Programmierung mit ESP basierten Geräten vereinfachen, und einen stabilen sowie dynamischen Workflow bieten.
+Sie soll die Programmierung mit ESP basierten Prozessoren vereinfachen, und einen stabilen sowie dynamischen Workflow bieten.
+Alles ist dokumentiert ein detailiert beschrieben für besseres Verständnis des Code's
 

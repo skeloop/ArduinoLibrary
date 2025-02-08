@@ -7,12 +7,12 @@
 - PIN-Steuerung des Boards
 - verwaltung der Stromzufuhr 
 
-# Verwendung
+## Verwendung
 Für alle die schon immer ein eigenes Smarthome System basteln wollten.
 Intigrierte Methoden und Funktionen decken komplizierte Logikabfragen.
 
 
-# Fazit
+## Fazit
 Als ich damit begonnen habe mit ESP's, elektronische Komponenten für mein Zuhause, wie 'Lichtsteuerung', 'autonome Schalter' und 'Gerätesteuerung' zu basteln, kam mir die Idee für ein allgemeines und vereinfachtes Framework für schnelleres Prototyping und Entwickeln.
 Sie soll die Programmierung mit ESP basierten Geräten vereinfachen, und einen stabilen sowie dynamischen Workflow bieten.
 
